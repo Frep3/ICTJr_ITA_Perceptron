@@ -1,0 +1,10 @@
+# Ambientes e caches Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Configurações locais de editores
+.vscode/
+
+# Arquivos temporários do Jupyter
+.ipynb_checkpoints/
